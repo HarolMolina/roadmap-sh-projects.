@@ -1,0 +1,15 @@
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/bin/Debug/net10.0/1-Task_Tracker
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/bin/Debug/net10.0/1-Task_Tracker.deps.json
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/bin/Debug/net10.0/1-Task_Tracker.runtimeconfig.json
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/bin/Debug/net10.0/1-Task_Tracker.dll
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/bin/Debug/net10.0/1-Task_Tracker.pdb
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.AssemblyInfoInputs.cache
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.AssemblyInfo.cs
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.csproj.CoreCompileInputs.cache
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.sourcelink.json
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.dll
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/refint/1-Task_Tracker.dll
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.pdb
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/1-Task_Tracker.genruntimeconfig.cache
+/home/avocadojohnson/Coding Projects/roadmap-sh-projects./1-Task_Tracker/obj/Debug/net10.0/ref/1-Task_Tracker.dll
